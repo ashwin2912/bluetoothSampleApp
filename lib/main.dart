@@ -41,7 +41,7 @@ class _MyHomePageState extends State<MyHomePage> {
   bool _scanStarted = false;
   bool _connected = false;
   Timer? _timer;
-  int _counter = 4;
+  int _counter = 5;
 
 
 // Bluetooth related variables
